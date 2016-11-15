@@ -4,6 +4,9 @@ h1{
 h2{
 	color: blue;
 }
+h3{
+	color: purple;
+}
 body{
 	background-color: black;
 	border-left-style: dotted;
